@@ -21,16 +21,19 @@ body {
 
 .stats-container {
     display: flex;
-}
+    align-items: center;
+} 
 
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
+    box-shadow: 0 0 30px lightblue;
     padding: 1%;
     margin: 1%;
     width: 100%;
     text-align: center;
-}
+    cursor: pointer;
+} 
 
 #num-contributions, #total-raised, #num-games {
     font-size: 50px;
