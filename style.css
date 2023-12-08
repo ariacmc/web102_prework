@@ -2,21 +2,39 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background: linear-gradient(to right, #87CEEB, #1E90FF);
+}
+
+h1{
+    margin-right: 2rem;
 }
 
 #tentacles {
     width: 50px;
+    margin-left: 2rem;
 }
 
 .header {
-    display: flex;
-    background-color: lightblue;
-    padding: 1%;
+     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
-    margin-left: -10px;
-    margin-right: -10px;
-    margin-top: -10px;
+    height: 5rem;
+    width: 99%;
+    border: #b2deff 3px solid; 
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #0049ae;
+    background-color: rgba(255, 255, 255, 0.3); 
+    margin: 0 auto; 
+}
+
+#main-container {
+   text-align: center;
+   margin: 50px;
+}
+
+h1 {
+    text-align: center;
 }
 
 .stats-container {
@@ -25,9 +43,10 @@ body {
 } 
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: rgba(255, 255, 255, 0.8); 
+    backdrop-filter: blur(3px);
     border-radius: 7px;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px rgb(230, 249, 255);
     padding: 1%;
     margin: 1%;
     width: 100%;

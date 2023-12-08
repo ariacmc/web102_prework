@@ -10,17 +10,22 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-* [YES] The introduction section explains the background of the company and how many games remain unfunded.
-* [YES] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [YES] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [YES] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
+The following **optional** functionality is completed:
+* Changes to the background in order to make the design match a more sea theme
+* Floating navigation bar for better aesthetics
+* Adjustments to the navbar background color in order to give it a transparent look 
+* Added text align to the about company section and stats title in order to make it look more composed
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='file:///private/var/folders/pd/s__wy6g12z1cx1tfv29ky2680000gn/T/0a884b3021e04b920308a6ed42a7575c/Kapture%202023-12-07%20at%2013.37.43.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25waHFxcTZ6eGJ4NGE0bG9mMTJ5MzJlMnhraDM0ZnN2ZDlueWQ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eM75dI54Ckl1gm8mTJ/giphy.gif' title='Video Walkthrough' width='1000px' alt='Video Walkthrough' />
 
 
 GIF created with ...  
@@ -32,7 +37,7 @@ When completing challenge 5 I had to debug a lot. I was writing the code when I 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ariana Pike]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
